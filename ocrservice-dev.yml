@@ -1,3 +1,5 @@
+test:
+  url: http://uolééé.com.br
 logging:
   level:
     org: INFO
