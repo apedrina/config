@@ -1,0 +1,14 @@
+logging:
+  level:
+    org: INFO
+
+server:
+  contextPath: /ocr
+  port: 9898
+spring:
+  application:
+    name: ocrservice
+
+management:
+  security:
+    enabled: false
