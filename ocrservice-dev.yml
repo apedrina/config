@@ -1,5 +1,5 @@
 test:
-  url: http://facebook.com.br
+  url: http://orkut.com.br
 logging:
   level:
     org: INFO
